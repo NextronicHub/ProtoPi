@@ -1,7 +1,7 @@
-# ProtoPi
-Prototyping cape for the Raspberry Pi.
+# Nextronic ProtoPi
+  
 
-The protoPi is a Raspberry pi Uno prototyping shield with a small soldering area, two general LEDs, Bluetooth Pinout, a general pushbutton switch, and the reset switch 
+The protoPi is a Raspberry pi prototyping shield with a small soldering area, LED, serial Pinout, SPI pinout, and i2c pinout with pull up resistance
 
 
 ##Repository Contents
